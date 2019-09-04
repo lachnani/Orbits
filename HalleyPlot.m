@@ -1,4 +1,3 @@
-%% Homework 4
 %% Hakim Lachnani
 %% 7 February 2017
 
